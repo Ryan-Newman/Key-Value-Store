@@ -1,0 +1,11 @@
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 421\Key-Value Store\Key-Value Store\bin\Debug\netcoreapp3.0\Key-Value Store.exe
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 421\Key-Value Store\Key-Value Store\bin\Debug\netcoreapp3.0\Key-Value Store.deps.json
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 421\Key-Value Store\Key-Value Store\bin\Debug\netcoreapp3.0\Key-Value Store.runtimeconfig.json
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 421\Key-Value Store\Key-Value Store\bin\Debug\netcoreapp3.0\Key-Value Store.runtimeconfig.dev.json
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 421\Key-Value Store\Key-Value Store\bin\Debug\netcoreapp3.0\Key-Value Store.dll
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 421\Key-Value Store\Key-Value Store\bin\Debug\netcoreapp3.0\Key-Value Store.pdb
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 421\Key-Value Store\Key-Value Store\obj\Debug\netcoreapp3.0\Key-Value Store.csprojAssemblyReference.cache
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 421\Key-Value Store\Key-Value Store\obj\Debug\netcoreapp3.0\Key-Value Store.AssemblyInfoInputs.cache
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 421\Key-Value Store\Key-Value Store\obj\Debug\netcoreapp3.0\Key-Value Store.AssemblyInfo.cs
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 421\Key-Value Store\Key-Value Store\obj\Debug\netcoreapp3.0\Key-Value Store.dll
+C:\Users\Ryan Newman\Desktop\MSSA\Assignments\ISTA 421\Key-Value Store\Key-Value Store\obj\Debug\netcoreapp3.0\Key-Value Store.pdb
